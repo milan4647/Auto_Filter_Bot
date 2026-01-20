@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/MoviesHub_Hindi">{file_name}</a></b>"""
+    CAPTION = """<b><a href="https://t.me/MoviesHub_Hindi">{file_name}</a>\nJᴏɪɴ Us ➠ @MoviesHub_Hindi</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
